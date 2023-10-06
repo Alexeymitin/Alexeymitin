@@ -37,7 +37,7 @@
 
 - :zap: In my free time, I solve problems on Codewars and read tech articles.
 
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-n1kaka-blue?style=flat&logo=Telegram&logoColor=white)](your-tg-url)
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-n1kaka-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/n1kaka)
 
 
 
