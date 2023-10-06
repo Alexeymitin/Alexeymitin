@@ -10,7 +10,7 @@
   <a href="https://t.me/n1kaka">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="your-codewars-URL">
+  <a href="https://www.codewars.com/users/Alexeymitin">
     <img src="https://img.shields.io/badge/Codewars-red?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
