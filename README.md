@@ -47,6 +47,6 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Saas](https://img.shields.io/badge/saas-%CC6699.svg?style=for-the-badge&logo=saas&logoColor=black)
+![Saas](https://img.shields.io/badge/saas-%#CC6699.svg?style=for-the-badge&logo=saas&logoColor=black)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-%238DD6F9.svg?style=for-the-badge&logo=git&logoColor=black)
