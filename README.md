@@ -18,7 +18,6 @@
 
 <h1 align="center">
   Hi, I`m Mitin Alexey
-    <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
 </h1>
 
 
